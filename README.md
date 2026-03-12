@@ -45,9 +45,9 @@
 ```
 *** Begin Patch
 Update File: src/example.py
-```python
+
 # 修改后的代码
-```
+
 *** End Patch
 ```
 
@@ -82,6 +82,8 @@ Update File: src/example.py
 ## 🏗️ 系统架构
 
 ### 整体架构图
+
+```
 ┌─────────────────────────────────────────────────────────────┐
 │                     用户交互层 (CLI)                          │
 │                   hello_code_cli.py                          │
@@ -121,7 +123,6 @@ Update File: src/example.py
 ```
 
 
-```
 
 ### 核心模块说明
 
